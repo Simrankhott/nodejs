@@ -1,4 +1,4 @@
-// Importing the Express frameworkk
+// Importing the Express framework
 var express = require('express');
 
 // Creating an Express application instance
